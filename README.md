@@ -20,3 +20,6 @@ You can download these ex-packages online or use Blender's Console directly. Her
 This may take a few minutes.
 
 This is an alpha version. The main function of ChemBlender is based on geometry nodes. Blender 4.0 is recommended to use and there may be some issues with different versions. Fortunately, a new version is currently under development, please stay tuned!
+
+More detailed manual can be downloaded at https://asrc.ustc.edu.cn/_upload/tpl/13/b6/5046/template5046/ChemBlender/ChemBlender.htm
+
