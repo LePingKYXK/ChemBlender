@@ -42,7 +42,7 @@ class MOL3D_MT_ATTRIBUTE(bpy.types.Menu):
 
 class MOL3D_MT_NODES(bpy.types.Menu):
     bl_idname = "MOL3D_MT_NODES"
-    bl_label = "Mol3D Nodes"
+    bl_label = "ChemBlender_alpha"
 
     def draw(self, context):
         layout = self.layout.column_flow(columns=1)
@@ -53,7 +53,7 @@ class MOL3D_MT_NODES(bpy.types.Menu):
 
 def Mol3D_node_menu(self, context):
     layout = self.layout
-    layout.menu("MOL3D_MT_NODES", text='Mol3D Nodes')
+    layout.menu("MOL3D_MT_NODES", text='ChemBlender_alpha')
 
 
 # -----------------------------------------------------------------------------------------------
